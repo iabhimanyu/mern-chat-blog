@@ -5,7 +5,7 @@ git clone https://github.com/iabhimanyu/mern-chat-blog.git  <br />
 cd mern-chat-blog  <br />
 npm install
   
-Available Commands:
+Available Commands:  <br />
 npm run start:watch - starts the development server with hot reloading enabled
 
 npm run bs - bundles the code and starts the production server
