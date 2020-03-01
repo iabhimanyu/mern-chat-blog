@@ -1,7 +1,7 @@
 # mern-chat-blog
 Signup,login,post,comment features
 How to Start:
-  git clone 
+  git clone https://github.com/iabhimanyu/mern-chat-blog.git
   cd mern-blog
   npm install
   
